@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "George",
+      "job": "Software Developer"
+    },
+    {
+      "name": "Janet",
+      "job": "Software Developer"
+    },
+    {
+      "name": "Emma",
+      "job": "Software Developer"
+    },
+    {
+      "name": "Eve",
+      "job": "Software Developer"
+    },
+    {
+      "name": "Charles",
+      "job": "Software Developer"
+    },
+    {
+      "name": "Tracey",
+      "job": "Software Developer"
+    }
+  ]
+}
