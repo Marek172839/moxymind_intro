@@ -1,0 +1,11 @@
+# Ignore all log files
+*.log
+
+# Ignore node_modules directory in a Node.js project
+node_modules/
+
+# Ignore the build directory
+build/
+
+# Ignore system files
+.DS_Store
